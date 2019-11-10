@@ -185,9 +185,8 @@ a:visited {
 .sheet-container .decor:nth-child(2) {
     width: 150px;
     left: 5px;
-    top: 310px;
-    opacity: .4;
-	z-index: -1;
+    top: 370px;
+    opacity: .4
 }
 .sheet p {
     font-size: 20px;
