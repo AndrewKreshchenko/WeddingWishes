@@ -13,7 +13,7 @@ p, a, button, li, label, code, pre, h1, h2, h3 {
     font-family: 'Caveat', cursive;
 }
 a {
-    text-decoration: dotted;
+    text-decoration-style: dotted;
     color: #2f83b6;
     -webkit-transition: color 0.5s;
     -moz-transition: color 0.5s;
@@ -21,8 +21,7 @@ a {
     transition: color 0.5s;
 }
 a:hover, a:focus, a:active, a:after {
-    color: #215b80 !important;
-    text-decoration: none
+    color: #215b80 !important
 }
 a:visited {
     color: #215b80
